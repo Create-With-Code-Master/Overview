@@ -1,4 +1,4 @@
-| Unit | Practicing New Skills (Lessons) | Extension (Challenge) | Independent Use (Personal Project) |
+| Unit | Developing New Skills (Lessons) | Extension (Challenge) | Independent Use (Personal Project) |
 | :--- | :---                            | :---                  | :---                               |
 | 1    |
 | 2    |
