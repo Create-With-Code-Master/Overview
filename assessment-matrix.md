@@ -1,11 +1,3 @@
-| Unit | Developing New Skills (Lessons) | Extension (Challenge) | Independent Use (Personal Project) |
-| :--- | :---                            | :---                  | :---                               |
-| 1    |
-| 2    |
-| 3    |
-| 4    |
-| 5    |
-
 <table>
   <tr>
     <th>Prototype</th>
@@ -17,16 +9,16 @@
     <td>1</td>
   </tr>
   <tr>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>1</td>
+    <td>3</td>
   </tr>
   <tr>
-   <td>1</td>
+   <td>4</td>
   </tr>
   <tr>
-   <td>1</td>
+   <td>5</td>
   </tr>
 </table>
   
