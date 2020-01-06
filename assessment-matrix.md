@@ -8,10 +8,11 @@
   <tr>
     <td>1</td>
     <td>
-      
-      * Basic player controller.
-      * Camera positioning
-      
+      <ul>
+        <li>
+          Basic player controller.
+        <li>
+          Camera positioning.
     </td>
   </tr>
   <tr>
