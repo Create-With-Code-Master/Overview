@@ -6,7 +6,7 @@
     <th>Labs: applying skills & understandings to implement your own designs.</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>1: Player Control<br>3rd Person</td>
     <td>
       <ul>
         <li>
