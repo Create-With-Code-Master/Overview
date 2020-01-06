@@ -16,16 +16,16 @@
     </td>
   </tr>
   <tr>
-    <td><b>2</b></td>
+    <td><b>2 - Basic Gameplay</b><br>Top Down</td>
   </tr>
   <tr>
-    <td><b>3</b></td>
+    <td><b>3 - Sound & Effects</b><br>Side Scroller</td>
   </tr>
   <tr>
-   <td><b>4</b></td>
+   <td><b>4 - Gameplay Mechanics</b><br></td>
   </tr>
   <tr>
-   <td><b>5</b></td>
+   <td><b>5 - User Interface (UI)</b><br></td>
   </tr>
 </table>
   
