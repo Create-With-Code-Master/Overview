@@ -1,8 +1,14 @@
+<style>
+  span {
+    color: red;
+  }
+</style>
+  
 <table>
   <tr>
     <th>Prototype</th>
     <th>Skills & Understandings</th>
-    <th>Lessons: developing skills & understanding through guided practice with detailed instructions.</th>
+    <th>Lessons: <span class="info">developing skills & understanding through guided practice with detailed instructions.<span></th>
     <th>Challenges: using skills & understandings to read and debug other people's code.</th>
     <th>Labs: applying skills & understandings to implement your own designs.</th>
   </tr>
