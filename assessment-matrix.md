@@ -7,6 +7,12 @@
   </tr>
   <tr>
     <td>1</td>
+    <td>
+      
+      * Basic player controller.
+      * Camera positioning
+      
+    </td>
   </tr>
   <tr>
     <td>2</td>
