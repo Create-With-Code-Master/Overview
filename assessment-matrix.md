@@ -1,9 +1,9 @@
 <table>
   <tr>
     <th>Prototype</th>
-    <th>New Skills (Lessons)</th>
-    <th>Practicing & Testing Skills (Challenges)</th>
-    <th>Independent Use (Personal Project)</th>
+    <th>Lessons: developing skills & understanding through guided practice with detailed instructions.</th>
+    <th>Challenges: using skills & understandings to read and debug other people's code.</th>
+    <th>Labs: applying skills & understandings to implement your own designs.</th>
   </tr>
   <tr>
     <td>1</td>
