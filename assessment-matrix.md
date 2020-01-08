@@ -1,9 +1,3 @@
-<style>
-  span {
-    color: red;
-  }
-</style>
-  
 <table>
   <tr>
     <th>Prototype</th>
