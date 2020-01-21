@@ -1,6 +1,6 @@
 # Assessment Matrix
 
-[Google Doc: ]()
+[Google Doc: GDP Assessment Matrix](https://docs.google.com/document/d/1cH0dUnEIkzzeGuIJqNaWYWh7JyrOzQG72hP8C-KItpc/edit?usp=sharing)
 
 ## Design Process
 
