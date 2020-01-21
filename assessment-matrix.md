@@ -6,6 +6,14 @@
 
 ## Game Programming Fundamentals
 
+* Declare variables:
+  - Type
+  - Access
+  - Primative types
+  - Objects
+  - Arrays
+* Call methods
+
 ## Prototype 1
 
 * Navigate the 3D space and the Unity Editor comfortably
